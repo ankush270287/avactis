@@ -1,0 +1,3 @@
+Public static void main string[args]
+system.out.println("second program)
+system.out.println("second program)
